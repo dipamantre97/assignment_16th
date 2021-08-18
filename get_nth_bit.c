@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&data);
 	printf("enter bit\n");
 	scanf("%d",&bit);
-	printf("to get perticular bit=%d",(data>>bit));
+	printf("to get perticular bit=%d",(data>>bit)&1);
 	
 }
 /* enter data
