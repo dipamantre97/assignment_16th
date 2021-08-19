@@ -10,8 +10,8 @@ int main()
 	
 }
 /* enter data
-6
+5
 enter bit
-2
+0
 to get perticular bit=1
 */
